@@ -3,4 +3,4 @@ Data and code accompanying 'Drivers of bias in diagnostic test accuracy estimate
 
 Recreating the figures in the paper requires the nestedloop function from Rücker et al. (https://doi.org/10.1186/1471-2288-14-129)
 
-The Results.Rdata file includes the simulation results, known as `MSE_results` in the R script.
+The Results.Rdata file includes the simulation results, referred to as `MSE_results` in the R script.
